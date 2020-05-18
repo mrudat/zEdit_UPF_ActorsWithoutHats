@@ -4,7 +4,7 @@
   "author": "mrudat",
   "version": "0.0.5",
   "released": "2019-11-24",
-  "updated": "2019-11-24",
+  "updated": "2020-05-18",
   "description": "Makes hats (and other hair-concealing head-wear) invisible.",
   "requires": ["unifiedPatchingFramework"],
   "moduleLoader": "UPF",
